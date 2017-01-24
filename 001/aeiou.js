@@ -20,8 +20,13 @@ var arr = ["absconder", "absconders", "absconding", "absconds", "abseil",
 var rarr = [];
 
 for(var i = 0; i < arr.length; i++){
-    if(arr[i].includes("a", "e", "i", "o", "u")){
-        console.log("Worked")
+    if(   arr[i].includes("a", "e", "i", "o", "u")
+        &&arr[i].indexOf("a") < arr[i].indexOf("e")
+        &&arr[i].indexOf("e") < arr[i].indexOf("i")
+        &&arr[i].indexOf("i") < arr[i].indexOf("o")
+        &&arr[i].indexOf("o") < arr[i].indexOf("u")
+        ){
+        console.log(arr[i])
     }
 
 }
