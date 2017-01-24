@@ -6,5 +6,8 @@ for(var w = 0; w < arr[0].length; w++){
 		if(arr[i].charAt(w) == ""){
 			narr[w] += " ";
 		}
+		else{
+			narr[w] += (arr[i].charAt(w));
+		}
 	}
 }
