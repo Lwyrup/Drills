@@ -21,6 +21,12 @@ rarr = []
 
 i = 0
 while i < arr.length do
-    
+    if arr[i].include?"a" and
+    arr[i].include?"e" and
+    arr[i].include?"i" and
+    arr[i].include?"o" and
+    arr[i].include?"u"
+        puts "So far so good?"
+    end
     i += 1
 end
