@@ -25,8 +25,12 @@ while i < arr.length do
     arr[i].include?"e" and
     arr[i].include?"i" and
     arr[i].include?"o" and
-    arr[i].include?"u"
-        puts "So far so good?"
+    arr[i].include?"u" and
+    arr[i].index("a") < arr[i].index("e") and
+    arr[i].index("e") < arr[i].index("i") and
+    arr[i].index("i") < arr[i].index("o") and
+    arr[i].index("o") < arr[i].index("u") and
+        puts "Zzzz..."
     end
     i += 1
 end
