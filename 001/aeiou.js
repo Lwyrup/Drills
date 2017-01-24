@@ -18,3 +18,10 @@ var arr = ["absconder", "absconders", "absconding", "absconds", "abseil",
     "abstainers", "abstaining", "abstains", "abstemious", "abstemiously", 
     "abstemiousness", "abstemiousnesses", "abstention", "abstentions", "abstentious", "absterge"];
 var rarr = [];
+
+for(var i = 0; i < arr.length; i++){
+    if(){
+        
+    }
+
+}
