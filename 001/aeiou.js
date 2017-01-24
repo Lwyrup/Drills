@@ -25,7 +25,11 @@ for(var i = 0; i < arr.length; i++){
         &&arr[i].indexOf("e") < arr[i].indexOf("i")
         &&arr[i].indexOf("i") < arr[i].indexOf("o")
         &&arr[i].indexOf("o") < arr[i].indexOf("u")
-        ){
+        &&(arr[i].split("a").length - 1) == 1
+        &&(arr[i].split("e").length - 1) == 1
+        &&(arr[i].split("i").length - 1) == 1
+        &&(arr[i].split("o").length - 1) == 1
+        &&(arr[i].split("u").length - 1) == 1){
         console.log(arr[i])
     }
 
