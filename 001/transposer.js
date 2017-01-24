@@ -11,3 +11,4 @@ for(var w = 0; w < arr[0].length; w++){
 		}
 	}
 }
+console.log(narr.join("\n"));
