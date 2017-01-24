@@ -16,6 +16,6 @@ function changer(amount){
 		for(;0 < amount; p ++){
 		amount = amount - 0.01;
 	}
-	return amount
+	return q + " quaters\n" + d + " dimes\n" + n + " nickels\n" + p + " pennies"
 }
 console.log(changer(4.17));
