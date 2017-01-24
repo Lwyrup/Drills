@@ -30,7 +30,8 @@ for(var i = 0; i < arr.length; i++){
         &&(arr[i].split("i").length - 1) == 1
         &&(arr[i].split("o").length - 1) == 1
         &&(arr[i].split("u").length - 1) == 1){
-        console.log(arr[i])
+            rarr.push(arr[i]);
     }
 
 }
+console.log(rarr);
