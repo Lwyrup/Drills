@@ -20,8 +20,8 @@ var arr = ["absconder", "absconders", "absconding", "absconds", "abseil",
 var rarr = [];
 
 for(var i = 0; i < arr.length; i++){
-    if(){
-        
+    if(arr[i].includes("a", "e", "i", "o", "u")){
+        console.log("Worked")
     }
 
 }
