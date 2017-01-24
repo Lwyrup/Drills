@@ -30,6 +30,11 @@ while i < arr.length do
     arr[i].index("e") < arr[i].index("i") and
     arr[i].index("i") < arr[i].index("o") and
     arr[i].index("o") < arr[i].index("u") and
+    (arr[i].split("a") < arr.length-1 == 1) and
+    (arr[i].split("e") < arr.length-1 == 1) and
+    (arr[i].split("i") < arr.length-1 == 1) and
+    (arr[i].split("o") < arr.length-1 == 1) and
+    (arr[i].split("u") < arr.length-1 == 1) 
         puts "Zzzz..."
     end
     i += 1
