@@ -4,7 +4,9 @@ function changer(amount){
 	var n = 0;
 	var p = 0;
 
-
-	return
+	for(;0.24 < amount; q ++){
+		amount = amount - 0.25;
+	}
+	return amount
 }
 console.log(changer(4.17));
