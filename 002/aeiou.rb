@@ -18,3 +18,9 @@ arr = ["absconder", "absconders", "absconding", "absconds", "abseil",
     "abstainers", "abstaining", "abstains", "abstemious", "abstemiously", 
     "abstemiousness", "abstemiousnesses", "abstention", "abstentions", "abstentious", "absterge"]
 rarr = []
+
+i = 0
+while i < arr.length do
+    
+    i += 1
+end
