@@ -16,8 +16,12 @@ def changer(amount)
 		amount = amount - 0.05
 		n += 1
 	end
+	while 0 < amount
+		amount = amount - 0.01
+		p += 1
+	end
 
-	return "#{q} quarters\n#{d} dimes\n#{n} nickels\n#{p}pennies."
+	return "#{q} quarters.\n#{d} dimes.\n#{n} nickels.\n#{p} pennies."
 end
 
 puts changer(4.17)
