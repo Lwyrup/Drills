@@ -4,8 +4,7 @@ def changer(amount)
 	n = 0
 	p = 0
 
-	return q + " quarters\n" + d + " dimes\n" +
-		   n + " nickels\n" + p + " pennies."
+	return "#{q} quarters\n#{d} dimes\n#{n} nickels\n#{p}pennies."
 end
 
 puts changer(4.17)
