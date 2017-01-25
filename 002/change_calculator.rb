@@ -8,6 +8,10 @@ def changer(amount)
 		amount = amount - 0.25
 		q += 1
 	end
+	while 0.09 < amount
+		amount = amount - 0.10
+		d += 1
+	end
 
 	return "#{q} quarters\n#{d} dimes\n#{n} nickels\n#{p}pennies."
 end
