@@ -1,0 +1,117 @@
+{
+	"post": {
+		"post_main": {
+			"name": "Walter White",
+			"time": " Yesterday at 12:37am",
+			"body": " I am the one who knocks",
+			"likes": "29 likes",
+			"comments": "3 comments"
+		},
+		"post_comments": [{
+			"name": "Saul Goodman",
+			"body": " Umm... no, I am a unique person with a highly developed personal identity, no one thinks quite like me or is as cool, funny, or smart.",
+			"replies": "4 replies",
+			"likes": "2 likes",
+			"time": " Yesterday at 10:00am",
+			"replys_comments": [{
+				"name": "Skyler White",
+				"body": " Umm... no, I am a unique person with a highly developed personal identity, no one thinks quite like me or is as cool, funny, or smart.",
+				"replies": "Reply",
+				"likes": "2 likes",
+				"time": " Yesterday at 10:00am",
+				"replys_comments": []
+			}, {
+				"name": "Saul Goodman",
+				"body": " Umm... no, I am a unique person with a highly developed personal identity, no one thinks quite like me or is as cool, funny, or smart.",
+				"replies": "Reply",
+				"likes": "2 likes",
+				"time": " Yesterday at 10:00am",
+				"replys_comments": []
+			}, {
+				"name": "Skyler White",
+				"body": " Umm... no, I am a unique person with a highly developed personal identity, no one thinks quite like me or is as cool, funny, or smart.",
+				"replies": "2 replies",
+				"likes": "2 likes",
+				"time": " Yesterday at 10:00am",
+				"replys_comments": [{
+					"name": "Hank Schraedar",
+					"body": " Umm... no, I am a unique person with a highly developed personal identity, no one thinks quite like me or is as cool, funny, or smart.",
+					"replies": "Reply",
+					"likes": "2 likes",
+					"time": " Yesterday at 10:00am",
+					"replys_comments": []
+				}, {
+					"name": "Walter White",
+					"body": " Umm... no, I am a unique person with a highly developed personal identity, no one thinks quite like me or is as cool, funny, or smart.",
+					"replies": "Reply",
+					"likes": "2 likes",
+					"time": " Yesterday at 10:00am",
+					"replys_comments": []
+				}]
+			}, {
+				"name": "Marie Schraeder",
+				"body": " Umm... no, I am a unique person with a highly developed personal identity, no one thinks quite like me or is as cool, funny, or smart.",
+				"replies": "Reply",
+				"likes": "2 likes",
+				"time": " Yesterday at 10:00am",
+				"replys_comments": []
+			}]
+		}, {
+			"name": "Skyler White",
+			"body": " Umm... no, I am a unique person with a highly developed personal identity, no one thinks quite like me or is as cool, funny, or smart.",
+			"replies": "Reply",
+			"likes": "2 likes",
+			"time": " Yesterday at 10:00am",
+			"replys_comments": []
+		}, {
+			"name": "Jesse Pinkman",
+			"body": " Umm... no, I am a unique person with a highly developed personal identity, no one thinks quite like me or is as cool, funny, or smart.",
+			"replies": "3 replies",
+			"likes": "2 likes",
+			"time": " Yesterday at 10:00am",
+			"replys_comments": [{
+				"name": "Hank Schraedar",
+				"body": " Umm... no, I am a unique person with a highly developed personal identity, no one thinks quite like me or is as cool, funny, or smart.",
+				"replies": "Reply",
+				"likes": "2 likes",
+				"time": " Yesterday at 10:00am",
+				"replys_comments": []
+			}, {
+				"name": "Skyler White",
+				"body": " Umm... no, I am a unique person with a highly developed personal identity, no one thinks quite like me or is as cool, funny, or smart.",
+				"replies": "3 replies",
+				"likes": "2 likes",
+				"time": " Yesterday at 10:00am",
+				"replys_comments": [{
+					"name": "Marie Schraeder",
+					"body": " Umm... no, I am a unique person with a highly developed personal identity, no one thinks quite like me or is as cool, funny, or smart.",
+					"replies": "Reply",
+					"likes": "2 likes",
+					"time": " Yesterday at 10:00am",
+					"replys_comments": []
+				}, {
+					"name": "Skyler White",
+					"body": " Umm... no, I am a unique person with a highly developed personal identity, no one thinks quite like me or is as cool, funny, or smart.",
+					"replies": "Reply",
+					"likes": "2 likes",
+					"time": " Yesterday at 10:00am",
+					"replys_comments": []
+				}, {
+					"name": "Hank Schraedar",
+					"body": " Umm... no, I am a unique person with a highly developed personal identity, no one thinks quite like me or is as cool, funny, or smart.",
+					"replies": "Reply",
+					"likes": "2 likes",
+					"time": " Yesterday at 10:00am",
+					"replys_comments": []
+				}]
+			}, {
+				"name": "Saul Goodman",
+				"body": " Umm... no, I am a unique person with a highly developed personal identity, no one thinks quite like me or is as cool, funny, or smart.",
+				"replies": "Reply",
+				"likes": "2 likes",
+				"time": " Yesterday at 10:00am",
+				"replys_comments": []
+			}]
+		}]
+	}
+}
